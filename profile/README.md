@@ -1,9 +1,7 @@
-## Hi there 👋
+# Data Guild 👋
 
-**Here are some ideas to get you started:**
+🙋‍♀️ 데이터에 대해 실전에 적용할 수 있게 학습합니다.
 
-- 🙋‍♀️ A short introduction - what is your organization all about?
-- 🌈 Contribution guidelines - how can the community get involved?
-- 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-- 🍿 Fun facts - what does your team eat for breakfast?
-- 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+## 👩‍💻 빠른 링크
+
+### [프로젝트 관리](https://github.com/orgs/nds-initial-data/projects/2)
