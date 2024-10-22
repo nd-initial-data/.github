@@ -4,10 +4,10 @@
 
 ## 👩‍💻 빠른 링크
 
-### [프로젝트 관리](./projects/2)
+### [프로젝트 관리](https://github.com/orgs/nd-initial-data/projects/2)
 
-### [Onboarding](./Onboarding)
+### [Quiz](https://github.com/nd-initial-data/Quiz)
 
-### [Quiz](./Quiz)
+### [Onboarding](https://github.com/nd-initial-data/Onboarding)
 
-### [Wiki](./Wiki)
+### [Wiki](https://github.com/nd-initial-data/Wiki)
